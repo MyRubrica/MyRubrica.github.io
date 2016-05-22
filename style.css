@@ -246,6 +246,10 @@ nav .caret{
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
+.mg-md{
+	margin-top:10px;
+	margin-bottom:20px;
+}
 .mg-lg{
 	margin-top:10px;
 	margin-bottom:40px;
